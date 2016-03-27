@@ -1,0 +1,151 @@
+body{
+		width: 100%;
+	background-color: #C0C0C0;
+}
+#top
+{
+	height:100px;
+	background-color:#99CCFF;
+	font-size: 30pt;
+	padding-top: 20px;
+	color: green;
+	
+	
+    text-align: center;
+	border:2px black solid;
+
+	
+}
+
+.page {
+	display: inline;
+	width: 1000px;
+	padding: 5px 10px;
+	height: 50px;
+	margin: 54px;
+	margin-right: 69px;
+	font-weight:bold;
+	font-size: 20px;
+	
+
+}
+form{
+	display: block;
+	height: 37px;
+	background-color: red;
+}
+#new
+{
+	height:40px;
+	width:200px;
+	background-color:#CCCCFF;
+	font-size:20pt;
+	font-color:green;
+	
+	top: 0%;
+	padding-right: 10px;
+	text-align: center;
+}
+#edit
+{
+	height:40px;
+	width: 200px;
+	margin-left:200px;
+	margin-top: -40px;
+	background-color:#CCCCFF;
+	font-size:20pt;
+	font-color:green;
+	
+     top: 0%;
+     text-align: center;
+}
+#delete
+{
+	height:40px;
+	width: 200px;
+	//margin-left: 400px;
+	//margin-top: -40px;
+	background-color:#CCCCFF;
+	font-size:20pt;
+	font-color:green;
+	
+	text-align: center;
+}
+#prev
+{
+	height:40px;
+    width: 200px;
+   // margin-left: 600px;
+   // margin-top: -40px;
+	background-color:#CCCCFF;
+	font-size:20pt;
+	font-color:green;
+	
+	text-align: center;
+}
+#next
+{
+	height:40px;
+	width: 200px;
+	//margin-left: 800px;
+	//margin-top: -40px;
+	background-color:#CCCCFF;
+	font-size:20pt;
+	font-color:green;
+	
+    text-align: center;
+}
+#last
+{
+	height:40px;
+	width: 200px;
+	//margin-left: 1000px;
+	//margin-top: -40px;
+	background-color:#CCCCFF;
+	font-size:20pt;
+	font-color:green;
+	
+	text-align: center;
+}
+#close
+{
+	height:40px;
+	width: 125px;
+	//margin-left: 1200px;
+	//margin-top: -40px;
+	background-color:#CCCCFF;
+	font-size:20pt;
+	font-color:green;
+	
+	text-align: center;
+}
+#tab2
+{
+	margin-left: 1050px;
+	margin-top: -450px;
+	
+
+	
+}
+#tab1
+{
+	width: 300px;
+	
+}
+#tab3
+{
+	width: 300px;
+	
+	margin-left: 450px;
+	margin-top: -373px;
+}
+#remarks
+{
+	width:20px;
+	height:100px;
+	
+
+	
+}
+
+
